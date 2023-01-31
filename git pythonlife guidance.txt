@@ -9,7 +9,8 @@ git config user.name
 git config user.email
 
 create repo 
-Clone the repo git clone "repo.git"
+Clone the repo 
+git clone "repo.git"
 git add -A
 git status
 git commit -m "message"
