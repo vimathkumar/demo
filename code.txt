@@ -1,3 +1,4 @@
+#runner up score #top 2 score finding
 n = int(input())
 l = input()
 li = l.split()
