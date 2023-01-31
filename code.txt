@@ -6,23 +6,6 @@ for i in li:
     j = int(i)
     new.append(j)
 new.sort()
-c=0
-for i in new:
-    if i==max(new):
-        c+=1
-d= len(new)
-print(new[d-c-1])
-
-
-
-n = int(input())
-l = input()
-li = l.split()
-new = []
-for i in li:
-    j = int(i)
-    new.append(j)
-new.sort()
 m = new[-1]
 vim=[]
 for i in new:
