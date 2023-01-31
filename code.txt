@@ -1,8 +1,4 @@
 #runner up score #top 2 score finding
-
-
-$adding a file
-
 n = int(input())
 l = input()
 li = l.split()
