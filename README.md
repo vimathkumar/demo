@@ -1,7 +1,6 @@
 
 <h1> Hey! This is Vimath Kumar :) </h1>
-<H5>Email : vimathkumar012@kumar.com </h5>
-<h5>Contact : 8464836140 </h5>
+<H5>Email : vimathkumar012@gmail.com </h5>
 <h5>Linkedin : https://www.linkedin.com/in/vimath-kumar-konapala-824603260 </h5>
 <br>
 <h2> ABOUT : </H2>
