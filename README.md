@@ -4,7 +4,7 @@
 <h5>Linkedin : https://www.linkedin.com/in/vimath-kumar-konapala-824603260 </h5>
 <br>
 <h2> ABOUT : </H2>
-<p>I'm vimath kumar,love to start my career as a Engineer in a reputed IT/ITES organization, being a Mechanical Engineer &
+<p>I'm vimath kumar,love to start my career as a Software Engineer in a reputed IT/ITES organization, being a Mechanical Engineer &
 skilled with various knowledge, would like to enhance my skills and knowledge along with the contribution to
 the growth of the organization.</p>
 <H3> EDUCATION : </H3>
