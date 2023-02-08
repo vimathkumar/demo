@@ -41,7 +41,7 @@ the growth of the organization.</p>
   <li>HTML</li>
   <li>CSS</li>
   <li>GIT</li>
-  <li>POWERBI</li>
+  <li>POWER BI</li>
   <li>DJANGO</li>
   <li>C</li>
   <li>JAVA</li>
