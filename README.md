@@ -1,11 +1,13 @@
 
 <h1> Hey! This is Vimath Kumar :) </h1>
-<H5>email : vimathkumar012@kumar.com </h5>
-<h5>contact : 8464836140 </h5>
-<h5>linkedin : https://www.linkedin.com/in/vimath-kumar-konapala-824603260 </h5>
+<H5>Email : vimathkumar012@kumar.com </h5>
+<h5>Contact : 8464836140 </h5>
+<h5>Linkedin : https://www.linkedin.com/in/vimath-kumar-konapala-824603260 </h5>
 <br>
 <h2> ABOUT : </H2>
-<p>I'm vimath kumar</p>
+<p>I'm vimath kumar,love to start my career as a Engineer in a reputed IT/ITES organization, being a Mechanical Engineer &
+skilled with various knowledge, would like to enhance my skills and knowledge along with the contribution to
+the growth of the organization.</p>
 <H3> EDUCATION : </H3>
 <TABLE>
 <TR>
@@ -15,7 +17,7 @@
   <TH>CGPA</TH>
 </TR>
 <TR>
-  <TD>BTECH(MECHANICAL ENGINEERING)</TD>
+  <TD>BTECH (MECHANICAL ENGINEERING)</TD>
   <TD>RGUKT SKLM</TD>
   <TD>2018-2022</TD>
   <TD>8.37</TD>
@@ -45,6 +47,7 @@
   <li>C</li>
   <li>JAVA</li>
 </ul>
+<h3>HOBBIES : </h3>
 <UL>
   <LI>watching cricket</LI>
   <LI>listening music</LI>
